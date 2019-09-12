@@ -3,22 +3,22 @@
       {
         "id": 1,
         "name": "Lambo",
-        "img-url": "link"
+        "img_url": "link"
       },
       {
         "id": 2,
         "name": "Anu",
-        "img-url": "link"
+        "img_url": "link"
       },
       {
         "id": 3,
         "name": "Bayalagmaa",
-        "img-url": "link"
+        "img_url": "link"
       },
       {
         "id": 4,
         "name": "Tugsuu",
-        "img-url": "link"
+        "img_url": "link"
       }
     ]
 }
