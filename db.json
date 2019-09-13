@@ -3,22 +3,22 @@
       {
         "id": 1,
         "name": "Lambo",
-        "img_url": "link"
+        "img_url": "https://i.imgur.com/PDLZEjV.jpg"
       },
       {
         "id": 2,
         "name": "Anu",
-        "img_url": "link"
+        "img_url": "https://i.imgur.com/sei9Wa1.jpg"
       },
       {
         "id": 3,
         "name": "Bayalagmaa",
-        "img_url": "link"
+        "img_url": "https://i.imgur.com/cqMZtKD.jpg"
       },
       {
         "id": 4,
         "name": "Tugsuu",
-        "img_url": "link"
+        "img_url": "https://i.imgur.com/H3RzSHB.jpg"
       }
     ]
 }
